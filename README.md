@@ -1,5 +1,5 @@
 # Pneumonia-Detection-Using-CNN-based-Feature-Extraction
-Abstract—Pneumonia is a life-threatening infectious disease
+Pneumonia is a life-threatening infectious disease
 affecting one or both lungs in humans commonly caused by
 bacteria called Streptococcus pneumoniae. One in three deaths
 in India is caused due to pneumonia as reported by World
